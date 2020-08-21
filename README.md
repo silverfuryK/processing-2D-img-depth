@@ -1,5 +1,5 @@
 # processing-2D-img-depth
-creating an effect of depth from 2D images
+creating an effect of depth from 2D images in Processing IDE (java)
 
 
 this processing program works by including 2 versions of a any 2d image.
