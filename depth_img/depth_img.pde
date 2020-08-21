@@ -4,9 +4,9 @@ PImage col;
 void setup(){
   
   
-  col = loadImage("img/altair_depth_col.png");
-  img = loadImage("depth/altair_depth_k.png");
-  size(1080,1080);
+  col = loadImage("img/canyon_r_col.png");
+  img = loadImage("depth/canyon_r_k.png");
+  size(1366,786);
   //int wd = img.width;
   //int ht = img.height;
   //size(wd, ht);
